@@ -1,4 +1,4 @@
-<img align="right" height="388em" src="https://github.com/gabrieljuniorferrari88.png"/>
+<img align="right" height="368em" src="https://github.com/gabrieljuniorferrari88.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Gabriel Ferrari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieljuniorferrari88&color=007ACC" alt="Visualizações do Perfil" /> </p>
 
