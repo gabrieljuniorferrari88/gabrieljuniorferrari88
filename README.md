@@ -47,7 +47,8 @@
 <a href="https://www.facebook.com/gabriel.junior.ferrari" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"/>
 </a>
-</p><br>
+</p>
+  
   ![Snake animation](https://github.com/gabrieljuniorferrari88/gabrieljuniorferrari88/blob/output/github-contribution-grid-snake.svg)
 <!--
 **gabrieljuniorferrari88/gabrieljuniorferrari88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
