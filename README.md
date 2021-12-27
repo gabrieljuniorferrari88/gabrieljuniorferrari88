@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="left">
   <a href="https://github.com/gabrieljuniorferrari88">
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=gabrieljuniorferrari88&show_icons=true&theme=algolia" alt="gabrielferrari's stats"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljuniorferrari88&layout=compact&theme=algolia" alt="gabrielferrari's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=gabrieljuniorferrari88&show_icons=true&theme=algolia" alt="gabrielferrari's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljuniorferrari88&layout=compact&theme=algolia" alt="gabrielferrari's most languages"/>
 </div>
 <br>  
   
