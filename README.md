@@ -1,4 +1,4 @@
-<img align="right" height="368em" src="https://github.com/gabrieljuniorferrari88.png"/>
+<img align="right" height="358em" src="https://github.com/gabrieljuniorferrari88.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Gabriel Ferrari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieljuniorferrari88&color=007ACC" alt="Visualizações do Perfil" /> </p>
 
@@ -48,7 +48,6 @@
  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"/>
 </a>
 </p><br>
-
   ![Snake animation](https://github.com/gabrieljuniorferrari88/gabrieljuniorferrari88/blob/output/github-contribution-grid-snake.svg)
 <!--
 **gabrieljuniorferrari88/gabrieljuniorferrari88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
