@@ -8,6 +8,8 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis neste [Repositório](https://github.com/gabrieljuniorferrari88)
 
+- 📖 Estudando no Ignite da [Rocketseat](https://app.rocketseat.com.br/me/gabriel-ferrari-1571379199)
+
 <br><br>
 
 ## 🛠 &nbsp;Minhas habilidades tecnológicas
